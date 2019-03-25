@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardolucas18/Docker_NodeJs_Express_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardolucas18/Docker_NodeJs_Express_API/issues"
+  },
+  "homepage": "https://github.com/ricardolucas18/Docker_NodeJs_Express_API#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
